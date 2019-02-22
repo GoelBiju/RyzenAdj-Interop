@@ -52,11 +52,11 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <None Include="WinRing0x64.exp" />
-    <None Include="WinRing0x64.sys" />
-    <None Include="WinRing0x64.dll" />
+    <Library Include="WinRing0x64.lib" />
   </ItemGroup>
   <ItemGroup>
-    <Library Include="WinRing0x64.lib" />
+    <None Include="WinRing0x64.sys" />
+    <None Include="WinRing0x64.dll" />
+    <None Include="WinRing0x64.exp" />
   </ItemGroup>
 </Project>
