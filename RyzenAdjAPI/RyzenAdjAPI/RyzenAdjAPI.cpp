@@ -1,4 +1,4 @@
-// RyzenAdjDLL.cpp : Defines the exported functions for the DLL application.
+// RyzenAdjAPI.cpp : Defines the exported functions for the DLL application.
 //
 
 // SPDX-License-Identifier: LGPL
