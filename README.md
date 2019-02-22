@@ -1,2 +1,2 @@
 # RyzenAdj-Interop
-Interoperability between a C# program and the Ryzen Adjustment library in C/C++.
+Provides basic interoperability between a C# program and the Ryzen Adjustment library in C/C++.
